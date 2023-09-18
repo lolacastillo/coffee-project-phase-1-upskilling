@@ -59,3 +59,4 @@ Here is an example demonstrating the above functionality. Your application might
 look different, but should have the same features.
 
 ![Cofee Project Demo](demo.gif)
+# coffee-project-phase-1-upskilling
